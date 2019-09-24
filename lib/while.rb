@@ -4,6 +4,7 @@ def using_while
   i = i + 1
   puts "Wingardium Leviosa"
  end
- puts "Wingardium Leviosa"
 end 
+
+puts "Wingardium Leviosa"
 
