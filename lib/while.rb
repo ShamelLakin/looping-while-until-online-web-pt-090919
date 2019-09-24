@@ -6,5 +6,4 @@ def using_while
  end
 end 
 
-puts "Wingardium Leviosa"
 
